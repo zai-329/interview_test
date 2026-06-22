@@ -1,9 +1,6 @@
 # 笔试作答
 仓库地址：https://github.com/zai-329/interview_test
 
-## 环境依赖安装
-pip install -r requirements.txt
-
 ## 文件功能说明
 1. test1.py：债券数据爬虫
 - 目标站点：https://www.chinamoney.com.cn/english/bdInfo/
